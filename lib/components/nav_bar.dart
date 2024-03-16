@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:live_srm/pages/menu_page.dart';
 import 'package:live_srm/pages/home_page.dart';
-import 'package:live_srm/pages/register_page.dart';
+import 'package:live_srm/pages/event_reg_page.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 // nav_bar.dart
 

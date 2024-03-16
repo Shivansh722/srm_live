@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:live_srm/pages/menu_page.dart';
 import 'package:live_srm/pages/home_page.dart';
-import 'package:live_srm/pages/register_page.dart';
+import 'package:live_srm/pages/event_reg_page.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
